@@ -1,0 +1,7 @@
+1. Create a folder and make it available in the VS code through right click or using VS Code.
+2. create index.html
+3. in VS code use HTML boiler-plate to start the coding
+4. Then use tailwind's following code after meta last line and before title line
+	<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+5. Then use https://tailblocks.cc/ to induce the templates from there and customize it as per need
+6. Meanwhile, use source splash for professional looking photos to be inducted in the website
